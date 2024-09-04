@@ -4,3 +4,5 @@ Simple web app using spotify api to look at artists/songs and compare to others,
 
 Joshua has added to the group
 
+Hey!
+
