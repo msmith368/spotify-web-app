@@ -1,1 +1,13 @@
-node_modules
+# node.js / frontend
+frontend/node_modules
+frontend/.env.local
+frontend/.DS_Store
+
+# python / backend
+backend/venv/
+backend/.env
+backend/__pycache__/
+
+# os files
+.DS_Store
+Thumbs.db
