@@ -4,7 +4,6 @@ import base64
 from requests import post, get
 import json
 
-# 
 
 # Client id and secret authentication for interacting with spotify web api 
 # loads envirnmnet variables from .env file
